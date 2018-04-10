@@ -1,6 +1,8 @@
 # uHouse
 
-Our project is an application that allows a remote control of lightning, desinfection and temperature in the house. 
+Our project is an application that allows a remote control of lightning, desinfection and temperature in the house. uHouse works on such platforms as: web, android and chat-bot. 
+
+It will fit the needs of users who come home after a very hard day, from business or travel trip and want to go into a clear, warm and fresh house.
 
 Created by:
 1. Mikhail Kilianovski - https://www.linkedin.com/in/mitutee
